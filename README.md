@@ -24,4 +24,4 @@
 
 - This project bench-marked the Seoul Night Bus service.
 - The results of this project were presented at the Data-driven Idea Contest for Busan Tourism
-* [news article of the contenst]([https://github.com/matiassingers/awesome-readme](https://www.startupn.kr/news/articleView.html?idxno=33957))
+* [news article]([https://github.com/matiassingers/awesome-readme](https://www.startupn.kr/news/articleView.html?idxno=33957))
