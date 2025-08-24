@@ -1,7 +1,27 @@
-데이터 활용 부산 관광 아이디어 공모전 은상 수상작 
-부산관광공사 사장상 수상 
+# Travel Flow-based Busan Night Tour Bus Routing Problem
 
-주요 수행 분석 
-- 동간 통행 패턴 탐지
-- DBSCAN을 활용한 주요 관광지구 (Area of Interest) 도출
-- Data Mining을 위한 Interactive Map Visualization
+
+
+## Description
+
+- a travel flow-based routing project for Busan Night Tour Bus Route Planning 
+
+## Getting Started
+
+### Dependencies
+
+* Tableau
+* geopandas
+
+
+### Executing program
+
+* the entire tableau notebook is uploaded.
+* if you want to see the whole procedure downloading the .twbx files is required
+
+
+## Acknowledgments
+
+- This project bench-marked the Seoul Night Bus service.
+- The results of this project were presented at the Data-driven Idea Contest for Busan Tourism
+* [news article of the contenst]([https://github.com/matiassingers/awesome-readme](https://www.startupn.kr/news/articleView.html?idxno=33957))
